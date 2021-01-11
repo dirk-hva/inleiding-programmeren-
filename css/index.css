@@ -1,0 +1,44 @@
+h1 {
+  font-family: sans-serif;
+}
+
+img {
+
+}
+
+#audiOpties {
+  position: absolute;
+  top: 350px;
+}
+
+
+#audiPreview {
+  position: relative;
+
+}
+
+#blauweAudi {
+  position: absolute;
+  width: 1000px;
+}
+
+#zwartRaam {
+  position: absolute;
+  top: 12px;
+  left: 38.5px;
+  width: 680px;
+}
+
+#grijsVelg {
+  position: absolute;
+  top: 170px;
+  left: 130px;
+  width: 750px;
+}
+
+
+
+/*Bronnen
+-Opdracht kerstboom van Nino
+-Rowin Schmidt (klasgenoot) uitleg over plaatsing van auto
+*/
